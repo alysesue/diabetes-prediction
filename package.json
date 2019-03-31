@@ -1,0 +1,29 @@
+{
+  "name": "diabetes",
+  "version": "1.0.0",
+  "description": "predict diabetes",
+  "main": "app.js",
+  "scripts": {
+    "test": "run diabetes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alysesue/diabetes-prediction.git"
+  },
+  "keywords": [
+    "diabetes",
+    "prediction"
+  ],
+  "author": "alysesue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alysesue/diabetes-prediction/issues"
+  },
+  "homepage": "https://github.com/alysesue/diabetes-prediction#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
